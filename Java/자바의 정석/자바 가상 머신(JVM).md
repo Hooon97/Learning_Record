@@ -1,7 +1,7 @@
 # 자바 가상 머신 Java Virtual Machine
 ### 자바 응용 프로그램을 실행하기 위한 가상 머신(소프트웨어)
 ### 1. JVM의 대략적인 구조
-![IMAGE]("")
+![IMAGE]("https://github.com/Hooon97/Learning_Record/tree/main/Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D/pics/JVM_구조.png")
 - JVM을 거치기 때문에 실행 속도가 느리다.
 - 이는 JIT 컴파일러의 등장과 최적화 기법으로 어느정도 개선되었다.
 - JIT 컴파일러는 컴파일된 Java 코드를 기계어로 변환하여 하드웨어(HW)로 전달한다.
@@ -20,5 +20,5 @@
 - [JVM 구조와 JAVA의 동작 원리](https://velog.io/@sgwon1996/JAVA%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC%EC%99%80-JVM-%EA%B5%AC%EC%A1%B0)
 - [자바 컴파일 과정 & JVM 내부 구조](https://velog.io/@minseojo/Java-%EC%9E%90%EB%B0%94-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B3%BC%EC%A0%95-JVM-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0)
 
-- 자바의 정석
+- 자바의 정석(도서)
 
