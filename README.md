@@ -7,8 +7,8 @@
 - [연산자](./Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D/%EC%97%B0%EC%82%B0%EC%9E%90.md)
 - [조건문과 반복문](./Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D/control_statement.md)
 - [정수형 배열](./Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D/array.md)
-- [객체형 배열]()
-- [가변 배열]()
+- [객체형 배열](./Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D/object_array.md)
+- [다차원 배열과 가변 배열](./Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D/object_array.md)
 <br/>
 
 ## Algorithm
