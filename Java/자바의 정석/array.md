@@ -63,7 +63,8 @@ int[] tmp2 = {1,2,3,4,5}; //위와 동일하다.
 int[] arr = new int[5];
 System.out.println(arr.length); // 5출력
 System.out.println(arr); // I@{16진법} 출력
-System.out.println(arr.toString()); //[0,0,0,0,0] 출력
+System.out.println(arr.toString()); //I@{16진법} 출력
+System.out.println(Arrays.toString(arr)); //[0,0,0,0,0] 출력
 
 char[] tmp = new char[]{H,e,l,l,o};
 System.out.print(tmp); //Hello 출력
