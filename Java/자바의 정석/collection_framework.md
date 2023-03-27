@@ -11,6 +11,3 @@
 
 이 중에서 `Vector`, `Stack`, `HashTable`, `Properties`등의 자료구조는 컬렉션 프레임워크의 명명법을 따르지 않는다. 즉, 이름만으로 기능을 유추할 수 없다는게 특징인데, 컬렉션 프레임워크가 고안되기 이전에 존재하던 자료구조이기 때문이다.</br>
 특히 `Vector`, `HashTable`은 기존에 설계된 클래스들과의 호환을 위해 남겨두었지만, 그보다는 `ArrayList`나 `HashMap` 등 새롭게 설계된 클래스 위주로 활용하자.</br>
-
-## Collection, List, Set, Map 인터페이스
-
