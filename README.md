@@ -38,7 +38,8 @@
 - 그래프 - [최소 신장 트리(MST)](./Algorithms/mst.md)
 - 그래프 - [벨만 포드(Bellman-Ford)](./Algorithms/bellman_ford_moore.md)
 - 그래프 - [플로이드-워셜(Floyd-Warshall)](./Algorithms/floyd_warshall.md)
-- 그래프 - 유니온 파인드(Union Find)
+- 그래프 - [유니온 파인드(Union Find)](./Algorithms/union_find.md)
+- 그래프 - [정리](./Algorithms/graph_set.md)
 - 트리 - 트리(Tree)의 개념
 - 트리 - 이진 트리(Binary Tree)
 - 트리 - 세그먼트 트리(Segment Tree)
