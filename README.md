@@ -30,9 +30,11 @@
 
 ## Algorithm
 - 정렬
-- 탐색 - 깊이 우선 탐색(DFS)
-- 탐색 - 너비 우선 탐색(BFS)
-- 탐색 - 이진 탐색(Binary Search)
+- 탐색 - [깊이 우선 탐색(DFS)](./Algorithms/dfs.md)
+- 탐색 - [너비 우선 탐색(BFS)](./Algorithms/bfs.md)
+- 탐색 - [이진 탐색(Binary Search)](./Algorithms/binary_search.md)
+- 탐색 - 순열
+- 탐색 - 조합
 - 그래프 - [3가지 표현 방식](./Algorithms/graph_types.md)
 - 그래프 - [다익스트라(Dijkstra)](./Algorithms/dijkstra.md)
 - 그래프 - [최소 신장 트리(MST)](./Algorithms/mst.md)
@@ -44,7 +46,7 @@
 - 트리 - 이진 트리(Binary Tree)
 - 트리 - 세그먼트 트리(Segment Tree)
 - 조합 - N개 중 M개 선택하기   
-- 순열
+
 ## 네트워크
 성공과 실패를 결정짓는 1% 네트워크 원리
 - 1장 : [HTTP 리퀘스트는 메시지를 작성한다.](./Network/network_ch1.md)
