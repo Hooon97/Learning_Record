@@ -33,8 +33,8 @@
 - 탐색 - [깊이 우선 탐색(DFS)](./Algorithms/dfs.md)
 - 탐색 - [너비 우선 탐색(BFS)](./Algorithms/bfs.md)
 - 탐색 - [이진 탐색(Binary Search)](./Algorithms/binary_search.md)
-- 탐색 - 순열
-- 탐색 - 조합
+- 탐색 - [순열](./Algorithms/permutation.md)
+- 탐색 - [조합](./Algorithms/combination.md)
 - 그래프 - [3가지 표현 방식](./Algorithms/graph_types.md)
 - 그래프 - [다익스트라(Dijkstra)](./Algorithms/dijkstra.md)
 - 그래프 - [최소 신장 트리(MST)](./Algorithms/mst.md)
