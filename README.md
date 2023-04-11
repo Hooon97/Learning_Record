@@ -42,10 +42,9 @@
 - 그래프 - [플로이드-워셜(Floyd-Warshall)](./Algorithms/floyd_warshall.md)
 - 그래프 - [유니온 파인드(Union Find)](./Algorithms/union_find.md)
 - 그래프 - [정리](./Algorithms/graph_set.md)
-- 트리 - 트리(Tree)의 개념
+- 트리 - [트리(Tree)의 개념](./Algorithms/tree.md)
 - 트리 - 이진 트리(Binary Tree)
 - 트리 - 세그먼트 트리(Segment Tree)
-- 조합 - N개 중 M개 선택하기   
 
 ## 네트워크
 성공과 실패를 결정짓는 1% 네트워크 원리
