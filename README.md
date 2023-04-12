@@ -50,4 +50,9 @@
 성공과 실패를 결정짓는 1% 네트워크 원리
 - 1장 : [HTTP 리퀘스트는 메시지를 작성한다.](./Network/network_ch1.md)
 
+## DB
+- [DBMS](./DB/dbms.md)
+- [기본 SQL](./DB/sql.md)
+- [대용량 시스템 구축을 위한 기초지식](./DB/db_basic.md)
+
 ## 시스템 설계
