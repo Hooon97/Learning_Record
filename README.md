@@ -52,7 +52,36 @@
 
 ## DB
 - [DBMS](./DB/dbms.md)
-- [기본 SQL](./DB/sql.md)
+- [SQL 기본 문법](./DB/sql.md)
+- SQL 심화 문법
 - [대용량 시스템 구축을 위한 기초지식](./DB/db_basic.md)
+
+## Web Skills(번역)
+- [Overview](./Backend_Loadmap/overview.md)
+- Internet
+- Language
+- Version Control System
+- Repo hosting Services
+- OS and General Knowledge
+- Relational Databases
+- NoSQL Database
+- More about Database
+- Scaling Database
+- APIs
+- Caching
+- Web Security
+- Testing
+- CI / CD
+
+Software Design & Architecture
+- Design and Development Principles
+- Message Brokers
+- Containerization vs Virtualization
+- GrahQL
+- WebSockets
+- Server Sent Events
+- Web Servers
+- Building for Scale
+
 
 ## 시스템 설계
